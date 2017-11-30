@@ -1,0 +1,10 @@
+C:\Git\GitChallenge\GitChallenge\bin\Debug\netcoreapp2.0\GitChallenge.deps.json
+C:\Git\GitChallenge\GitChallenge\bin\Debug\netcoreapp2.0\GitChallenge.runtimeconfig.json
+C:\Git\GitChallenge\GitChallenge\bin\Debug\netcoreapp2.0\GitChallenge.runtimeconfig.dev.json
+C:\Git\GitChallenge\GitChallenge\bin\Debug\netcoreapp2.0\GitChallenge.dll
+C:\Git\GitChallenge\GitChallenge\obj\Debug\netcoreapp2.0\GitChallenge.csproj.CoreCompileInputs.cache
+C:\Git\GitChallenge\GitChallenge\obj\Debug\netcoreapp2.0\GitChallenge.AssemblyInfoInputs.cache
+C:\Git\GitChallenge\GitChallenge\obj\Debug\netcoreapp2.0\GitChallenge.AssemblyInfo.cs
+C:\Git\GitChallenge\GitChallenge\bin\Debug\netcoreapp2.0\GitChallenge.pdb
+C:\Git\GitChallenge\GitChallenge\obj\Debug\netcoreapp2.0\GitChallenge.dll
+C:\Git\GitChallenge\GitChallenge\obj\Debug\netcoreapp2.0\GitChallenge.pdb

@@ -1,0 +1,5 @@
+C:\Git\GitChallenge\GitChallenge
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=GitChallenge
+--content-root=C:\Git\GitChallenge\GitChallenge
+--file=

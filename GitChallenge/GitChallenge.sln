@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitChallenge", "GitChallenge\GitChallenge.csproj", "{90714ADB-1F35-4230-9082-8EC9E6AEDEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitChallenge.Tests", "GitChallenge.Tests\GitChallenge.Tests.csproj", "{B1F9EFEF-6253-4D4A-A3CC-939B049A77C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90714ADB-1F35-4230-9082-8EC9E6AEDEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90714ADB-1F35-4230-9082-8EC9E6AEDEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90714ADB-1F35-4230-9082-8EC9E6AEDEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90714ADB-1F35-4230-9082-8EC9E6AEDEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F9EFEF-6253-4D4A-A3CC-939B049A77C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F9EFEF-6253-4D4A-A3CC-939B049A77C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F9EFEF-6253-4D4A-A3CC-939B049A77C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F9EFEF-6253-4D4A-A3CC-939B049A77C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2646FD8-7A87-4433-9336-5037AF64898E}
+	EndGlobalSection
+EndGlobal

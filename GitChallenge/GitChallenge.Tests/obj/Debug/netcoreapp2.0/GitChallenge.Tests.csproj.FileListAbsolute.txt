@@ -1,0 +1,16 @@
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\GitChallenge.Tests.deps.json
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\GitChallenge.Tests.dll
+C:\Git\GitChallenge\GitChallenge.Tests\obj\Debug\netcoreapp2.0\GitChallenge.Tests.csprojResolveAssemblyReference.cache
+C:\Git\GitChallenge\GitChallenge.Tests\obj\Debug\netcoreapp2.0\GitChallenge.Tests.csproj.CoreCompileInputs.cache
+C:\Git\GitChallenge\GitChallenge.Tests\obj\Debug\netcoreapp2.0\GitChallenge.Tests.AssemblyInfoInputs.cache
+C:\Git\GitChallenge\GitChallenge.Tests\obj\Debug\netcoreapp2.0\GitChallenge.Tests.AssemblyInfo.cs
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\GitChallenge.dll
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\GitChallenge.pdb
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\GitChallenge.Tests.pdb
+C:\Git\GitChallenge\GitChallenge.Tests\obj\Debug\netcoreapp2.0\GitChallenge.Tests.dll
+C:\Git\GitChallenge\GitChallenge.Tests\obj\Debug\netcoreapp2.0\GitChallenge.Tests.pdb
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\GitChallenge.Tests.runtimeconfig.json
+C:\Git\GitChallenge\GitChallenge.Tests\bin\Debug\netcoreapp2.0\GitChallenge.Tests.runtimeconfig.dev.json
